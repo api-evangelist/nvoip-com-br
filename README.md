@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nvoip provides an omnichannel communication platform that centralizes telephone, WhatsApp, and chat services. It integrates with CRM systems, automates customer service interactions, and offers team monitoring tools. The platform aims to streamline multichannel communication for businesses, enhancing engagement and operational efficiency across voice and messaging channels.
+nvoip-com-br is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
 
-**Areas:** Communication · Telephony · WhatsApp · CRM Integration · Omnichannel
+**Areas:** Omnichannel · WhatsApp API · Voicebot · Chatbot
 
 ## Nvoip on APIs.io
 
@@ -95,11 +95,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 10.0** — minimal · rubric 0.28.0 · scored 2026-11-20
+**Kin Score 7.8** — minimal · rubric 0.28.0 · scored 2026-11-20
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.9 |
+| Discoverability | 41.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 14.3 |
@@ -133,7 +133,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 15.7** — AI & Biometrics
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nvoip-com-br/](https://apis.io/providers/nvoip-com-br/).
 
